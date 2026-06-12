@@ -62,7 +62,8 @@ To see which categorical feature is affecting G3 more, I used Mutual Information
 
 ### Correlation plot
 
-![image](image)
+<img width="1351" height="450" alt="image" src="https://github.com/user-attachments/assets/fa15ee9f-25b9-43bb-a7d6-575f7b1cdbdd" />
+
 
 ---
 
