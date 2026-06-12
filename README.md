@@ -36,7 +36,7 @@ The primary goal of using this dataset is to predict the final academic grade (d
 
 <div align="center">
 
-### 👉 **Video Explaining what i have done = https://drive.google.com/file/d/1Bb9oojV0Nq3InO57VdAtnr64ogi0WSwv/view?usp=sharing**👈
+### 👉 Video Explaining what i have done = [video link](https://drive.google.com/file/d/1Bb9oojV0Nq3InO57VdAtnr64ogi0WSwv/view?usp=sharing) 👈
 
 </div>
 
